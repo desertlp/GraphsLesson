@@ -88,3 +88,4 @@ How Facebook shifted [from text input fields to a graph](https://www.facebook.co
 
 [Download GA’s Study Guide.](https://ga-waite.s3.amazonaws.com/production/sanitized-pdfs/distribution-and-descriptive-statistics-delete-421.pdf)
 
+[Six Degrees of Kevin Bacon](https://oracleofbacon.org/)
