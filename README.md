@@ -39,7 +39,7 @@ Save on time by stashing common connections to prompt easier load times
 A connection between two nodes is called an edge. An edge is represented as a line (undirected edge) or an arrow (directed edge).
     Undirected edges represent bidirectional connections, like a friendship on facebook.
 
-    Directed edges represent an unidirectional connection, like a follow on instagram, where you may follow an account but they do not necessarily follow you back.
+Directed edges represent an unidirectional connection, like a follow on instagram, where you may follow an account but they do not necessarily follow you back.
 
 #### What is the difference between a tree and a graph?
 
@@ -47,14 +47,14 @@ Trees are a subset of graph wherein all nodes are connected upward to a parent n
     Both Breadth-First and Depth-First searches may be utilized on graphs, but be sure to use a ‘visited’ boolean as Graphs may contain cycles (trees will not).
 
 #### What do adjacency lists and matrices look like?
-    Adjacency list:
-        let graph = {
-        'A': ['B', 'E'],
-        'B': ['A', 'C', 'D', 'E'],
-        'C': ['B', 'D'],
-        'D': ['B', 'C', 'E'],
-        'E': ['A', 'B', 'D'],
-        }
+        Adjacency list:
+            let graph = {
+            'A': ['B', 'E'],
+            'B': ['A', 'C', 'D', 'E'],
+            'C': ['B', 'D'],
+            'D': ['B', 'C', 'E'],
+            'E': ['A', 'B', 'D'],
+            }
 Adjacency Matrix:
 
  
