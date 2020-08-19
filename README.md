@@ -60,22 +60,21 @@ Adjacency Matrix:
  
 ## Additional Resources
 
-Some graph data structure interview question topics. 
-[interview question topics!](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855)
+Some graph data structure [interview question topics.](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855)
 
-Visualizations of breadth-first search and depth-first search in a graph structure.
+Visualizations of [breadth-first search](https://www.cs.usfca.edu/~galles/visualization/BFS.html) and [depth-first search](https://www.cs.usfca.edu/~galles/visualization/DFS.html) in a graph structure.
 
-Common interview questions about graphs that don’t necessarily deal with coding.
+[Common interview questions](https://stackabuse.com/graph-data-structure-interview-questions) about graphs that don’t necessarily deal with coding.
 
-All about Dijkstra path-finding in graphs.
+[All about Dijkstra path-finding in graphs.](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
 
-Practice building a graph visually.
+Practice [building a graph visually.](https://visualgo.net/en/graphds)
 
-How Facebook shifted from text input fields to a graph for its users’ interests.
+How Facebook shifted [from text input fields to a graph](https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-entities-graph/10151490531588920/) for its users’ interests.
 
-Implementing a simple graph using a class.
+[Implementing a simple graph](https://www.geeksforgeeks.org/implementation-graph-javascript/) using a class.
 
-Details on the data structure.
+[Details on the data structure.](https://medium.com/swlh/data-structures-graphs-50a8a032db03)
 
-Download GA’s Study Guide.
+[Download GA’s Study Guide.](https://ga-waite.s3.amazonaws.com/production/sanitized-pdfs/distribution-and-descriptive-statistics-delete-421.pdf)
 
