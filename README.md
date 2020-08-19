@@ -1,11 +1,10 @@
 # Graphs
 
 ## About graphs (Lora):
+A graph is a collection of nodes, which store data, and edges. Edges represent relationships or connections between nodes.
+Graphs are a powerful and flexible data structure, and have been widely adopted in modern software engineering.
 
-A graph is a collection of nodes, which store data, and edges, which represent relationships or connections between nodes.
-Graphs are a powerful and flexible data structure and have been widely adopted in modern software engineering.
-
-Graphs are represented one of two ways in code: an adjacency list or an adjacency matrix. Adjacency lists uses a collection of arrays (where each node has its own array that lists the connected nodes). Adjacency Matrices  are represented by a two-dimensional array, where 1 represents a connection (edge) and 0 represents a lack of an edge. 
+Graphs are represented one of two ways in code: an adjacency list, or an adjacency matrix. Adjacency lists use a collection of arrays, where each node has its own array that lists the connected nodes. Adjacency Matrices are represented by a two-dimensional array, where 1 represents a connection (edge) and 0 represents a lack of an edge. 
 
 ## Examples of graphs (Zach):
 
@@ -16,7 +15,7 @@ Here, vertices are where roads meet, and edges are the roads themselves. Thus th
 Here, vertices are not only users, but their images, their likes, and their comments. Edges are the connections between these (A user makes a comment on another user’s photo). Since users may follow each other (but not necessarily be followed back), this is an Unweighted, Directed graph.
 
 #### Facebook 
-Facebook ‘friends’ are a great example of undirected graph--any of your friends are also friends with you (unlike Instagram followers who you may choose to follow, but they may follow you regardless).
+Facebook ‘friends’ are a great example of undirected graph, any of your friends are also friends with you. This is unlike Instagram followers who you may choose to follow, but they may follow you regardless.
 
 #### Wikipedia
 Like most of the internet, the web pages here are the vertices, and the links to pages are the edges. This is another example of a Directed graph (links only go one way), and was the basic idea behind Google’s initial Page Ranking Algorithm.
@@ -25,10 +24,10 @@ Like most of the internet, the web pages here are the vertices, and the links to
 
 Finding the shortest path between two nodes (breadth first). 
 
-Weighted edges help us determine the path of least “cost” to the client
+Weighted edges help us determine the path of least *cost* to the client.
 ‘Cost’ could be distance (for maps), expense (for programming), or resource allocation (for OSs)
 
-Save on time by stashing common connections to prompt easier load times 
+Save on time by stashing common connections to prompt easier load times.
 
 ## Common Interview Questions (Leah & Timothy)
 
@@ -39,7 +38,7 @@ Save on time by stashing common connections to prompt easier load times
 A connection between two nodes is called an edge. An edge is represented as a line (undirected edge) or an arrow (directed edge).
     Undirected edges represent bidirectional connections, like a friendship on facebook.
 
-Directed edges represent an unidirectional connection, like a follow on instagram, where you may follow an account but they do not necessarily follow you back.
+Directed edges represent an unidirectional connection, like a follow on instagram. For example, you may follow an account, but it will not necessarily follow you back.
 
 #### What is the difference between a tree and a graph?
 
@@ -60,7 +59,9 @@ Adjacency Matrix:
  
  
 ## Additional Resources
-Some graph data structure interview question topics.
+
+Some graph data structure interview question topics. 
+[interview question topics!](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855)
 
 Visualizations of breadth-first search and depth-first search in a graph structure.
 
