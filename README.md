@@ -10,25 +10,25 @@ Graphs are represented one of two ways in code: an adjacency list or an adjacenc
 ## Examples of graphs (Zach):
 
 #### Google Maps
-    Here, vertices are where roads meet, and edges are the roads themselves. Thus their navigation can find the shortest path between two vertices using weights (for distance, traffic, speed limit, etc). Given that not all roads are two-way, this will be a Weighted, Directed graph.
+Here, vertices are where roads meet, and edges are the roads themselves. Thus their navigation can find the shortest path between two vertices using weights (for distance, traffic, speed limit, etc). Given that not all roads are two-way, this will be a Weighted, Directed graph.
 
 #### Instagram
-    Here, vertices are not only users, but their images, their likes, and their comments. Edges are the connections between these (A user makes a comment on another user’s photo). Since users may follow each other (but not necessarily be followed back), this is an Unweighted, Directed graph.
+Here, vertices are not only users, but their images, their likes, and their comments. Edges are the connections between these (A user makes a comment on another user’s photo). Since users may follow each other (but not necessarily be followed back), this is an Unweighted, Directed graph.
 
 #### Facebook 
-    Facebook ‘friends’ are a great example of undirected graph--any of your friends are also friends with you (unlike Instagram followers who you may choose to follow, but they may follow you regardless).
+Facebook ‘friends’ are a great example of undirected graph--any of your friends are also friends with you (unlike Instagram followers who you may choose to follow, but they may follow you regardless).
 
 #### Wikipedia
-    Like most of the internet, the web pages here are the vertices, and the links to pages are the edges. This is another example of a Directed graph (links only go one way), and was the basic idea behind Google’s initial Page Ranking Algorithm.
+Like most of the internet, the web pages here are the vertices, and the links to pages are the edges. This is another example of a Directed graph (links only go one way), and was the basic idea behind Google’s initial Page Ranking Algorithm.
 
 ## What can be solved with graphs? (Will) 
 
-    Finding the shortest path between two nodes (breadth first). 
+Finding the shortest path between two nodes (breadth first). 
 
-    Weighted edges help us determine the path of least “cost” to the client
-    ‘Cost’ could be distance (for maps), expense (for programming), or resource allocation (for OSs)
+Weighted edges help us determine the path of least “cost” to the client
+‘Cost’ could be distance (for maps), expense (for programming), or resource allocation (for OSs)
 
-    Save on time by stashing common connections to prompt easier load times 
+Save on time by stashing common connections to prompt easier load times 
 
 ## Common Interview Questions (Leah & Timothy)
 
